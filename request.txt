@@ -1,0 +1,5 @@
+requests 中文文档
+https://docs.python-requests.org/zh_CN/latest/user/quickstart.html
+
+Beautiful Soup 4.4.0 文档
+https://beautifulsoup.readthedocs.io/zh_CN/latest/
